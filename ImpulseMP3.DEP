@@ -1,0 +1,16 @@
+[Version]
+Version=3.1.0.186
+
+[ImpulseMP3.ocx <0009>]
+Dest=$(AppPath)
+Date=11/12/00
+Time=14:37
+Version=3.1.0.186
+CABFilename=
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=ImpulseMP3.dll
